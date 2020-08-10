@@ -58,6 +58,3 @@
     height="25" />
 
 <br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=geo-herrera&show_icons=true&title_color=FF9D00&icon_color=2AFFDF&text_color=ffffff&bg_color=15232D" />
