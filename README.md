@@ -1,7 +1,7 @@
 ### Hola, I'm Geovanni but call me Geo
 
 - 🚧   I'm currently working on adding more projects to Github cause judgment 😅
-- 🌱   I’m currently learning Django and GraphQL
+- 🌱   I’m currently learning serverless architecture
 - 🔥   I'm looking for open source projects which resonate with me to contribute
 
 <br />
